@@ -101,6 +101,8 @@ namespace caso
                 }
             }
         }
+
+        // Factura - Boleta
         public void reporte()
         {
             if (inicio != null)

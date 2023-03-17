@@ -7,6 +7,7 @@ using System.Xml;
 
 namespace caso
 {
+    // Modelo de bodega.
     internal class bodega
     {
         public int codigo;

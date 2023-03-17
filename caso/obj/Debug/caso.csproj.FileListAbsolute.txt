@@ -1,0 +1,16 @@
+D:\EstDat\semana03_parte2\caso\caso\bin\Debug\caso.exe.config
+D:\EstDat\semana03_parte2\caso\caso\bin\Debug\caso.exe
+D:\EstDat\semana03_parte2\caso\caso\bin\Debug\caso.pdb
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.csproj.AssemblyReference.cache
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.csproj.SuggestedBindingRedirects.cache
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.csproj.CoreCompileInputs.cache
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.exe
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.pdb
+C:\Users\PC\Desktop\UPN\Ciclos--Pasados\VERANO-4to_2023-0\EstructuraDatos--2023_0\_subir--GitHub\Bodegita\caso\bin\Debug\caso.exe.config
+C:\Users\PC\Desktop\UPN\Ciclos--Pasados\VERANO-4to_2023-0\EstructuraDatos--2023_0\_subir--GitHub\Bodegita\caso\bin\Debug\caso.exe
+C:\Users\PC\Desktop\UPN\Ciclos--Pasados\VERANO-4to_2023-0\EstructuraDatos--2023_0\_subir--GitHub\Bodegita\caso\bin\Debug\caso.pdb
+C:\Users\PC\Desktop\UPN\Ciclos--Pasados\VERANO-4to_2023-0\EstructuraDatos--2023_0\_subir--GitHub\Bodegita\caso\obj\Debug\caso.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\UPN\Ciclos--Pasados\VERANO-4to_2023-0\EstructuraDatos--2023_0\_subir--GitHub\Bodegita\caso\obj\Debug\caso.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\UPN\Ciclos--Pasados\VERANO-4to_2023-0\EstructuraDatos--2023_0\_subir--GitHub\Bodegita\caso\obj\Debug\caso.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\UPN\Ciclos--Pasados\VERANO-4to_2023-0\EstructuraDatos--2023_0\_subir--GitHub\Bodegita\caso\obj\Debug\caso.exe
+C:\Users\PC\Desktop\UPN\Ciclos--Pasados\VERANO-4to_2023-0\EstructuraDatos--2023_0\_subir--GitHub\Bodegita\caso\obj\Debug\caso.pdb
